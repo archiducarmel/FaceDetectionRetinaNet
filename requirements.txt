@@ -1,0 +1,2 @@
+fdet==0.2.1
+opencv_contrib_python==4.2.0.34
