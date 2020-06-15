@@ -6,5 +6,5 @@ Face detection using Retinanet model
 2. python3 main.py
 
 # Exemple
-[alt text](https://github.com/archiducarmel/FaceDetectionRetinaNet/blob/master/output.jpg?raw=true)
+[alt text](https://github.com/archiducarmel/FaceDetectionRetinaNet/blob/master/output.jpg)
 
